@@ -45,7 +45,7 @@ Publicly available [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metada
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/ayushtjsr/movie-recommender.git
+git clone https://github.com/ayushtjsr/Movie_recommender.git
 cd movie-recommender
 Install dependencies:
 
